@@ -3,4 +3,4 @@ In fact, this is not exactly a restaurant pager, but an Arduino Uno project that
 
 The representation of the seven segment display is as in the photo below.
 
-![Scheme](https://www.jameco.com/Jameco/workshop/TechTip/working-with-seven-segment-displays-fig1.jpg)
+![Scheme](https://raw.githubusercontent.com/MuhammedYusufOngel/RestaurantPager/main/RestaurantPager/images/working-with-seven-segment-displays-fig1.webp)
